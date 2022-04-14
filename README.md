@@ -1,5 +1,9 @@
 # 2022 CM Internship Menu Exercise
 
+# Demo
+
+It's currently on the code sandbox: https://codesandbox.io/s/2022-internship-exercise-menu-forked-hd8jv9?file=/src/index.js
+
 # Work / Project Examples
 
 ** Provide up to three examples of work/projects that you’ve recently participated in and provide detailed information about your role and contributions to the project. **
