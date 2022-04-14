@@ -1,0 +1,59 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #ecc595e0;
+}
+
+.spicy:before {
+  width: 16px;
+  height: 16px;
+  content: "";
+  background-image: url("../assets/spicy.svg");
+  background-repeat: no-repeat;
+  display: inline-block;
+  padding-right: 3px;
+  position: relative;
+  top: 4px;
+}
+header {
+  text-align: center;
+}
+
+main {
+  margin: 10px;
+}
+
+section {
+  padding: 15px;
+}
+
+h2 {
+  color: #e31f29;
+  font-weight: bold;
+}
+
+.menu-item.hidden {
+  display: none;
+}
+
+.menu-item {
+  display: block;
+}
+.item-name {
+  display: inline-block;
+  color: #559970;
+  font-weight: bolder;
+}
+.item-price {
+  float: right;
+}
+
+.item-description {
+  margin-top: 0;
+  font-style: italic;
+}
+
+.spicy-form {
+  float: right;
+  margin-right: 25px;
+  margin-top: 40px;
+}
